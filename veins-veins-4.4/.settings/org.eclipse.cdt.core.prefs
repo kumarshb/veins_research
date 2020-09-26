@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/org.omnetpp.cdt.gnu.config.debug.1760361527/CPLUS_INCLUDE_PATH/delimiter=\:
+environment/project/org.omnetpp.cdt.gnu.config.debug.1760361527/CPLUS_INCLUDE_PATH/operation=append
+environment/project/org.omnetpp.cdt.gnu.config.debug.1760361527/CPLUS_INCLUDE_PATH/value=/opt/inet/src/mobility/common
+environment/project/org.omnetpp.cdt.gnu.config.debug.1760361527/C_INCLUDE_PATH/delimiter=\:
+environment/project/org.omnetpp.cdt.gnu.config.debug.1760361527/C_INCLUDE_PATH/operation=append
+environment/project/org.omnetpp.cdt.gnu.config.debug.1760361527/C_INCLUDE_PATH/value=/opt/inet/src/mobility/common
+environment/project/org.omnetpp.cdt.gnu.config.debug.1760361527/append=true
+environment/project/org.omnetpp.cdt.gnu.config.debug.1760361527/appendContributed=true
